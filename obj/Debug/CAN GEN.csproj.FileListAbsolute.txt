@@ -1,0 +1,39 @@
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\CAN GEN.exe.config
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\CAN GEN.exe
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\CAN GEN.pdb
+C:\Users\Linas\source\repos\CAN GEN\obj\Debug\CAN GEN.csprojAssemblyReference.cache
+C:\Users\Linas\source\repos\CAN GEN\obj\Debug\CAN_GEN.Form1.resources
+C:\Users\Linas\source\repos\CAN GEN\obj\Debug\CAN_GEN.Properties.Resources.resources
+C:\Users\Linas\source\repos\CAN GEN\obj\Debug\CAN GEN.csproj.GenerateResource.cache
+C:\Users\Linas\source\repos\CAN GEN\obj\Debug\CAN GEN.exe
+C:\Users\Linas\source\repos\CAN GEN\obj\Debug\CAN GEN.pdb
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\Linas\source\repos\CAN GEN\obj\Debug\CAN GEN.csproj.CopyComplete
+C:\Users\Linas\source\repos\CAN GEN\obj\Debug\CAN GEN.csproj.CoreCompileInputs.cache
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\LiteDB.dll
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\LiteDB.xml
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\x86\sqlite3.dll
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\x64\sqlite3.dll
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Dapper.dll
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Dapper.xml
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\EntityFramework.dll
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\System.Data.SQLite.dll
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\EntityFramework.xml
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\System.Data.SQLite.xml
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\PackedDB.db
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\button_generate(1).png
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Properties\Resources\hover.png
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\Properties\Resources\generate-btn.png
+C:\Users\Linas\source\repos\CAN GEN\bin\Debug\collection.db

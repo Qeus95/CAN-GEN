@@ -1,0 +1,35 @@
+Fuel Consumption
+Dash Display1
+Electronic Engine Controller #1
+Engine Hours, Revolutions
+Vehicle Identification
+High Resolution Vehicle Distance
+Tachograph
+Engine Temperature 1
+Ambient Conditions
+Driver's Identification
+Fuel Economy
+Air Supply Pressure
+High Resolution Fuel Consumption (Liquid)
+Aftertreatment 1 Diesel Exhaust Fluid Tank 1 Information
+FMS Tell Tale Status
+Electronic Brake Controller 1
+Electronic Engine Controller 14
+Fuel Consumption (Gaseous)
+Electronic Retarder Controller 1
+Cruise Control/Vehicle Speed 1
+Electronic Engine Controller #2
+Vehicle Weight
+Service Information
+PTO Drive Engagement
+Combination Vehicle Weight
+Cruise Control/Vehicle Speed
+Electronic Engine Controller #2
+Door Control 1
+Door Control 2
+Time / Date
+Alternator Speed
+Electronic Transmission Controller 2
+Air Suspension Control 4
+Vehicle Electrical Power #4
+Vehicle Dynamic Stability Control 2
